@@ -15,5 +15,6 @@ public class Main {
         System.out.println("Name" + Arrays.toString(word));
         System.out.print(" Name");
         // New Line 17
+        System.out.print( " Name");
     }
 }
