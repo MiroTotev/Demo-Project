@@ -8,11 +8,12 @@ public class Main {
 
         String[] word1 = new String[args.length];
         word1 = word;
-        System.out.println("Обърнат масив: " + Arrays.toString(word1));
+        System.out.println("Обърнат масив: " + Arrays.toString(word1)); // Danix comment
 
 
         System.out.println("word : " + word1.length);
-        System.out.println("Name" + Arrays.toString(word));
+        System.out.println("Name" + Arrays.toString(word)); // Danix comment 2
         System.out.print(" Name");
+        // New Line 17
     }
 }
