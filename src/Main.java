@@ -14,5 +14,6 @@ public class Main {
         System.out.println("word : " + word1.length);
         System.out.println("Name" + Arrays.toString(word));
         System.out.print(" Name");
+        //update1
     }
 }
